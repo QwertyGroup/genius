@@ -1,5 +1,5 @@
 from selenium import webdriver
-from definitions import chromedriver_path
+from constants import chromedriver_path
 import time
 
 
